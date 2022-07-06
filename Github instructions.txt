@@ -1,0 +1,4 @@
+git add <whatever file trying to add usually index.html>
+git commit -m "<some message>"
+In order to merge:
+git push --set-upstream origin master 
